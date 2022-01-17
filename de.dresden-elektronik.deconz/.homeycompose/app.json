@@ -5,7 +5,7 @@
   "brandColor": "#55626b",
   "sdk": 2,
   "name": {
-    "en": "deCONZ"
+    "en": "deCONZ Mod"
   },
   "description": {
     "en": "Adds support for deCONZ's [raspbee/conbee] child devices"
@@ -39,7 +39,7 @@
         "name": "MadMonkey87"
       }
     ]
-  },
+   },
   "contributing": {
     "donate": {
       "paypal": {
