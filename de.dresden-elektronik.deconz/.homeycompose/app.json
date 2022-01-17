@@ -1,11 +1,11 @@
 {
   "id": "de.dresden-elektronik.deconz",
-  "version": "1.27.2",
+  "version": "1.29.3",
   "compatibility": ">=5.0.0",
   "brandColor": "#55626b",
   "sdk": 2,
   "name": {
-    "en": "deCONZ"
+    "en": "deCONZ Mod"
   },
   "description": {
     "en": "Adds support for deCONZ's [raspbee/conbee] child devices"
@@ -46,10 +46,4 @@
         "username": "madmonkey87"
       }
     }
-  },
-  "bugs": {
-    "url": "https://github.com/madmonkey87/HomeyCONZ/issues/new?assignees=MadMonkey87&labels=bug&template=bug_report.md&title=Bug"
-  },
-  "source": "https://github.com/madmonkey87/HomeyCONZ",
-  "homeyCommunityTopicId": 29390
-}
+  }
