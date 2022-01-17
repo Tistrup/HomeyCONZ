@@ -10,7 +10,7 @@ class HueOutdoorMotionDriver extends Driver {
 	}
 	
 	onPairListDevices(data, callback) {
-		this.getSensorsByCondition(device => device.modelid === 'SML002', callback)
+		this.getSensorsByCondition(device => device.modelid === 'SML002' || device.modelid === 'SML004', callback)
 	}
 
 }
