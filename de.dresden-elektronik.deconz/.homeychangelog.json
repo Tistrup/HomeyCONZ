@@ -142,5 +142,8 @@
   },
   "1.27.2": {
     "en": "small fixes"
+  },
+  "1.29.3": {
+    "en": "support for new hue motion sensors, and bumping version to get over the lost 1.29.2 version"
   }
 }
