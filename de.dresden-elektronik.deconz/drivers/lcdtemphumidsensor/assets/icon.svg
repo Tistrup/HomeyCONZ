@@ -54,6 +54,7 @@
      style="overflow:visible"
      id="Arrow1Send-4"
      refX="0"
+     refY="0"
      orient="auto"
      inkscape:stockid="Arrow1Send"><path
        transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
