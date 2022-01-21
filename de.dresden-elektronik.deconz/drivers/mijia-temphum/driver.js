@@ -10,7 +10,7 @@ class MijiaTempHumDriver extends Driver {
 	}
 	
 	onPairListDevices(data, callback) {
-                this.getSensorsByCondition(device => device.modelid === 'lumi.sensor_ht' || device.modelid === 'TS0201', callback)
+                this.getSensorsByCondition(device => device.modelid === 'lumi.sensor_ht', callback)
 	}
 	
 }
